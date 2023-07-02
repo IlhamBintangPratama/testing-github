@@ -7,3 +7,7 @@ asdfasdfasdf
 commit 1
 
 commit 2
+
+commit squash 1
+
+commit squash 2
